@@ -1,0 +1,21 @@
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+actor 读者
+actor 图书管理员
+actor 系统维护员
+rectangle 图书管理系统的用例图 {
+    读者-->(预约图书)
+    读者-->(续借图书)
+    读者-->(图书信息)
+    图书管理员-->(图书信息)
+    图书管理员-->(读者信息管理)
+    图书管理员-->(图书信息管理)
+    系统维护员-->(系统维护)
+    系统维护员--|>图书管理员
+    (图书信息) .> (借书):《include》
+    (图书信息) .> (还书):《include》
+    (逾期罚款) .> (还书):《extend》
+
+}
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+start
+    :登录;
+    :进入已借阅数目;
+    :选择续借;
+if(是否有该预定？) then (是)
+    :续借失败;
+else (否)
+    :续借成功;
+stop
+endif
+    :提示信息;
+    :已被预订;
+stop
+@enduml

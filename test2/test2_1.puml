@@ -1,0 +1,20 @@
+@startuml
+start
+	:登录;
+	:进入借阅页面;
+	:输入图书编号;
+	if (图书存在？) then (no)
+		:输入有误，该图书不存在;
+		stop
+	else (yes)
+		:显示库存量;
+	if (库存量充足？) then (no)
+		:借书失败，提供库存不足;
+		stop
+	else (yes)
+		:点击借阅按钮;
+		:显示“借阅成功”;
+	endif
+	:借出图书结束;
+stop
+@enduml

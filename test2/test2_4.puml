@@ -1,0 +1,21 @@
+@startuml
+start
+    :登录;
+    :列出所有读者信息;
+    :选择所需要维护的读者;
+if(是否有维护读者？) then (yes)
+    :显示该读者信息;
+else (no)
+    :提示不存在该读者;
+stop
+endif
+    :维护读者;
+    :填写读者新信息;
+    :确认信息;
+    :更新信息;
+if(更新是否成功) then(yes)
+    stop
+else (no)
+    :更新失败;
+    stop
+@enduml
