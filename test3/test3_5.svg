@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="158.75px" preserveAspectRatio="none" style="width:336px;height:158px;" version="1.1" viewBox="0 0 336 158" width="336.25px" zoomAndPan="magnify"><defs><filter height="300%" id="f11wvc68k5pdrl" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.5"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="5.0" dy="5.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[c4c649567d6d9fad9edb50706b5dbbaa]
+class 借书--><rect fill="#FEFECE" filter="url(#f11wvc68k5pdrl)" height="135.1147" id="借书" style="stroke: #A80036; stroke-width: 1.875;" width="130" x="7.5" y="10"/><ellipse cx="53.25" cy="30" fill="#ADD1B2" rx="13.75" ry="13.75" style="stroke: #A80036; stroke-width: 1.25;"/><path d="M52.8594,37.5 Q50.4375,37.5 49.0313,35.7227 Q47.625,33.9258 47.625,30.2344 Q47.625,27.1094 49.1094,25 Q50.5938,22.8906 53.1719,22.8906 Q53.7383,22.8906 54.2852,22.8906 Q54.832,22.8906 55.2227,22.8906 Q55.5352,22.8906 55.7305,22.8906 Q55.9453,22.8906 56.4531,22.8906 L57.332,27.5 L56.0039,27.5 Q55.457,26.1328 54.7344,25.5664 Q54.0313,25 52.8789,25 Q51.4336,25 50.5742,26.4844 Q49.7344,27.9492 49.7344,30.2344 Q49.7344,32.7539 50.3789,34.082 Q51.043,35.3906 52.8008,35.3906 Q53.9531,35.3906 54.7539,34.6875 Q55.5742,33.9648 56.0039,32.2266 L57.293,32.8711 Q56.8047,35.0586 55.6328,36.2891 Q54.4609,37.5 52.8594,37.5 Z "/><text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="30" x="76.75" y="36.947">借书</text><line style="stroke: #A80036; stroke-width: 1.875;" x1="8.75" x2="136.25" y1="50" y2="50"/><text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs" textLength="95" x="15" y="70.7574">book_name:xxx</text><text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs" textLength="81.25" x="15" y="89.5361">publisher:xxx</text><text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs" textLength="61.25" x="15" y="108.3148">press:xxx</text><text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs" textLength="115" x="15" y="127.0935">lend_time:2020-4-2</text><line style="stroke: #A80036; stroke-width: 1.875;" x1="8.75" x2="136.25" y1="135.1147" y2="135.1147"/><!--MD5=[0442e82a2e3eb4abe580985a09d5883a]
+class 还书--><rect fill="#FEFECE" filter="url(#f11wvc68k5pdrl)" height="135.1147" id="还书" style="stroke: #A80036; stroke-width: 1.875;" width="141.25" x="181.875" y="10"/><ellipse cx="232.6875" cy="30" fill="#ADD1B2" rx="13.75" ry="13.75" style="stroke: #A80036; stroke-width: 1.25;"/><path d="M232.2969,37.5 Q229.875,37.5 228.4688,35.7227 Q227.0625,33.9258 227.0625,30.2344 Q227.0625,27.1094 228.5469,25 Q230.0313,22.8906 232.6094,22.8906 Q233.1758,22.8906 233.7227,22.8906 Q234.2695,22.8906 234.6602,22.8906 Q234.9727,22.8906 235.168,22.8906 Q235.3828,22.8906 235.8906,22.8906 L236.7695,27.5 L235.4414,27.5 Q234.8945,26.1328 234.1719,25.5664 Q233.4688,25 232.3164,25 Q230.8711,25 230.0117,26.4844 Q229.1719,27.9492 229.1719,30.2344 Q229.1719,32.7539 229.8164,34.082 Q230.4805,35.3906 232.2383,35.3906 Q233.3906,35.3906 234.1914,34.6875 Q235.0117,33.9648 235.4414,32.2266 L236.7305,32.8711 Q236.2422,35.0586 235.0703,36.2891 Q233.8984,37.5 232.2969,37.5 Z "/><text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="30" x="257.3125" y="36.947">还书</text><line style="stroke: #A80036; stroke-width: 1.875;" x1="183.125" x2="321.875" y1="50" y2="50"/><text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs" textLength="95" x="189.375" y="70.7574">book_name:xxx</text><text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs" textLength="81.25" x="189.375" y="89.5361">publisher:xxx</text><text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs" textLength="61.25" x="189.375" y="108.3148">press:xxx</text><text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs" textLength="126.25" x="189.375" y="127.0935">return_time:2020-4-2</text><line style="stroke: #A80036; stroke-width: 1.875;" x1="183.125" x2="321.875" y1="135.1147" y2="135.1147"/><!--MD5=[cbf663561ebcd33996f35a7f49ec2399]
+@startuml
+class 借书{
+    book_name:xxx
+    publisher:xxx
+    press:xxx
+    lend_time:2020-4-2
+}
+
+class 还书{
+    book_name:xxx
+    publisher:xxx
+    press:xxx
+    return_time:2020-4-2
+}
+@enduml
+
+PlantUML version 1.2019.11(Sun Sep 22 18:02:15 CST 2019)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.5+10-b520.38
+Operating System: Windows 10
+Default Encoding: GBK
+Language: zh
+Country: CN
+--></g></svg>
