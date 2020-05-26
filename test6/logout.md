@@ -1,4 +1,4 @@
-# “登出”用例 [返回](https://github.com/Wangfan212/is_analysis/blob/master/test6/README.md)
+﻿# “登出”用例 [返回](https://github.com/Wangfan212/is_analysis/blob/master/test6/README.md)
 
 ## 1. 用例规约
 
@@ -13,7 +13,7 @@
 
 ## 2. 业务流程
 
-### [源码](https://github.com/Wangfan212/is_analysis/blob/master/test6/yuanma/logout.md)
+### [源码](https://github.com/Wangfan212/is_analysis/blob/master/test6/sequence/logout.md)
 
 ![登录认证流程图](logout.svg)
 

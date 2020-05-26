@@ -1,5 +1,5 @@
-
-[返回](https://github.com/Wangfan212/is_analysis/blob/master/test6/usecase7.md)
+﻿
+[返回](https://github.com/Wangfan212/is_analysis/blob/master/test6/login.md)
 - 功能：
     登录到平台。
     
@@ -15,8 +15,8 @@
 - 请求实例：
 
         {
-            "id":"21048329823",
-            "password":"ABCDE",
+            "id":"201710414318",
+            "password":"123456",
             "type":"学生"
         }
         

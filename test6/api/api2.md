@@ -1,4 +1,4 @@
-[返回](https://github.com/Wangfan212/is_analysis/blob/master/test6/usecase2.md)
+﻿[返回](https://github.com/Wangfan212/is_analysis/blob/master/test6/grades_judgment.md)
 
 ### 接口1：
         
@@ -28,7 +28,7 @@
         {         
             "status": true,
             "info": null,    
-            "student_id": "201510315203"
+            "student_id": "201710414318"
         }
  
 - 返回参数说明：    
@@ -67,10 +67,10 @@
         {         
             "status": true,
             "info": null,    
-            "student_id": "201510315203", 
-            "github_username": "chinajuedui", 
-            "class": "软件(本)15-1", 
-            "name": "陈松华", 
+            "student_id": "201710414318", 
+            "github_username": "Wangfan212", 
+            "class": "软件(本)17-3", 
+            "name": "王帆", 
             "total": 6,
             "avgresult":90.5,       
             "data": [
@@ -127,7 +127,7 @@
  
 - 请求实例：  
         { 
-            "student_id": "201510315203", 
+            "student_id": "201710414318", 
             "total": 6,
             "data": [
                 {

@@ -1,4 +1,4 @@
-[返回](https://github.com/Wangfan212/is_analysis/blob/master/test6/usecase8.md)
+﻿[返回](https://github.com/Wangfan212/is_analysis/blob/master/test6/logout.md)
 
 - 功能：
     已经登录的用户登出平台。
@@ -15,7 +15,7 @@
 - 请求实例：
 
         {
-            "user_id":324
+            "user_id":122
         }
         
 - 请求参数说明:        

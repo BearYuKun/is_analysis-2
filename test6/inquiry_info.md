@@ -1,4 +1,4 @@
-# “查看用户信息”用例 [返回](https://github.com/Chen-ruiqi123/is_analysis/blob/master/test6/README.md)
+﻿# “查看用户信息”用例 [返回](https://github.com/Wangfan212/is_analysis/blob/master/test6/README.md)
 ## 1. 用例规约
 
 |用例名称|查看用户信息|
@@ -12,7 +12,7 @@
 
 ## 2. 业务流程
 
-### [源码](https://github.com/Chen-ruiqi123/is_analysis/blob/master/test6/sequence/inquiry_info.md)
+### [源码](https://github.com/Wangfan212/is_analysis/blob/master/test6/sequence/inquiry_info.md)
 
 
 ![sequence](inquiry_info.svg)

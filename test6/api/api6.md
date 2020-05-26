@@ -1,4 +1,4 @@
-[返回](https://github.com/Wangfan212/is_analysis/blob/master/test6/usecase6.md)
+﻿[返回](https://github.com/Wangfan212/is_analysis/blob/master/test6/inquiry_info.md)
 
 - 功能：
     查看用户的所有信息。
@@ -24,10 +24,10 @@
         {         
             "status": true,
             "info": null,
-            "ID":"2101201281",    
-            "name":"张三",
-            "class_dept":"软件工程1班"
-            "github_username":"ABCD",
+            "ID":"201710414318",    
+            "name":"王帆",
+            "class_dept":"软件工程3班"
+            "github_username":"Wangfan212",
             "type":"学生"            
         }
  

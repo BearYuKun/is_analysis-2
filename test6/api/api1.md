@@ -1,4 +1,4 @@
-[返回](https://github.com/Wangfan212/is_analysis/blob/master/test6/usecase1.md)
+﻿[返回](https://github.com/Wangfan212/is_analysis/blob/master/test6/students_list.md)
 - API接口调用
     - - 权限：
     学生/访客：不能看到RESULT_SUM，WEB_SUM
@@ -26,11 +26,11 @@
             "data": [
                 {"WEB_SUM": "Y,Y,Y,Y,Y,N",
                 "RESULT_SUM": "83.75,90,80,80,85,N",
-                "GITHUB_USERNAME": "Chinajuedui",
-                "STUDENT_ID": "201510315203",
-                "CLASS": "软件(本)15-1",
+                "GITHUB_USERNAME": "Wangfan212",
+                "STUDENT_ID": "201710414318",
+                "CLASS": "软件(本)17-3",
                 "NAME": "陈松华",
-                "UPDATE_DATE": "2018-04-02 13:48:01"},
+                "UPDATE_DATE": "2019-04-02 13:48:01"},
                 {
                 ...其他学生
                 }

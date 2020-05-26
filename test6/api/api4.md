@@ -1,5 +1,5 @@
-
-[返回](https://github.com/Wangfan212/is_analysis/blob/master/test6/usecase4.md)
+﻿
+[返回](https://github.com/Wangfan212/is_analysis/blob/master/test6/rechange_password.md)
 
 - 功能：
     修改（设置）用户的密码。

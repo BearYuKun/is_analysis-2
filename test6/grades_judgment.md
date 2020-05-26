@@ -1,4 +1,4 @@
-# “评定成绩”用例 [返回](https://github.com/Chen-ruiqi123/is_analysis/blob/master/test6/README.md)
+﻿# “评定成绩”用例 [返回](https://github.com/Wangfan212/is_analysis/blob/master/test6/README.md)
 ## 1. 用例规约
 
 |用例名称|评定成绩|

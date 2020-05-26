@@ -1,4 +1,4 @@
-# “修改密码”用例 [返回](https://github.com/Wangfan212/is_analysis/blob/master/test6/README.md)
+﻿# “修改密码”用例 [返回](https://github.com/Wangfan212/is_analysis/blob/master/test6/README.md)
 ## 1. 用例规约
 
 |用例名称|修改密码|
@@ -12,7 +12,7 @@
 
 ## 2. 业务流程
 
-### [源码](https://github.com/Chen-ruiqi123/is_analysis/blob/master/test6/sequence/rechange_password.md)
+### [源码](https://github.com/Wangfan212/is_analysis/blob/master/test6/sequence/rechange_password.md)
 
 
 ![登录认证流程图](rechange_password.svg)
